@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buğra Uğur Toygar</h1>
 <h3 align="center">A passionate frontend developer from Türkiye(Turkey)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugra-ugur-toygar&label=Profile%20views&color=0e75b6&style=flat" alt="bugra-ugur-toygar" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugra-ugur-toygar" alt="bugra-ugur-toygar" /></a> </p>
 
